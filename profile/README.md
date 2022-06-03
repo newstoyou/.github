@@ -6,17 +6,3 @@ Repositorio principal de News To You. Este repo se crea con fines organizativos 
 
 
 
-## Índice
-A continuación una primera propuesta de desglose para organizar la documentación.
-
-- Código
-  - App - Front
-  - BackEnd - API
-  - Backend - Batches
-  - Backend - Scrappers
-  - Mongo
-  - Plataforma 
-- Investigaciones
-- Tareas
-- Problemas
-- Knowledge
